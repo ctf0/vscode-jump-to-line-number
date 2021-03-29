@@ -1,0 +1,1 @@
+# vscode-jump-to-line-number

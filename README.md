@@ -6,3 +6,7 @@
 >
 >- https://marketplace.visualstudio.com/items?itemName=ezforo.copy-relative-path-and-line-numbers
 >- https://marketplace.visualstudio.com/items?itemName=bgse.relative-path-and-line
+
+## TODO
+
+- [ ] add support to jump to method
